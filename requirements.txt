@@ -1,0 +1,4 @@
+django==3.2.6
+celery==5.2.7
+django-rest-framework==0.1.0
+redis==4.5.1
